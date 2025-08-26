@@ -25,3 +25,4 @@ public class SmallestOfThree {
         scanner.close();
     }
 }
+
