@@ -32,3 +32,4 @@ public class SimpleInterestCalculator {
         sc.close();
     }
 }
+
