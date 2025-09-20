@@ -32,7 +32,7 @@ class Thermostat extends Device {
 }
 
 // Main class to test
-public class SmartHomeDemo {
+public class displayStatus {
     public static void main(String[] args) {
         Thermostat livingRoomThermostat = new Thermostat(
             "THERMO-001",
